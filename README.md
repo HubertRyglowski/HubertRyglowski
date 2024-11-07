@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming and translating
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on translating
+- 🗣️ Languages: Native Polish, fluent in English
 - 📫 Right now i'm unable to be reached
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a smart home enthusiast
